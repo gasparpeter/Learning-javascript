@@ -24,17 +24,21 @@
 }
 
 #gomb1 {
-    width: 100px;
+    width: 200px;
     height: 100px;
     background-color: black;
     display: block;
     margin: auto;
+    color: white;
+    font-size: 30px;
 }
 
 #gomb2 {
-    width: 100px;
+    width: 200px;
     height: 100px;
     background-color: black;
     display: block;
     margin: auto;
+    color: white;
+    font-size: 30px;
 }
