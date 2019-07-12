@@ -1,0 +1,40 @@
+#dobozka {
+    width: 800px;
+    height: 600px;
+    background-color: red;
+    display: block;
+    margin: auto;
+    align-items: center;
+}
+
+#elso {
+    width: 400px;
+    height: 200px;
+    background-color: lightgreen;
+    display: block;
+    margin: 10px;
+}
+
+#masodik {
+    width: 400px;
+    height: 200px;
+    background-color: lightgreen;
+    display: block;
+    margin: 10px;
+}
+
+#gomb1 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: block;
+    margin: auto;
+}
+
+#gomb2 {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display: block;
+    margin: auto;
+}
