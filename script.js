@@ -7,3 +7,7 @@ let szoveg2 = document.getElementById("szoveg2");
 btn1.addEventListener("click", function () {
     szoveg1.style.display = "none";
 });
+
+btn2.addEventListener("click", function () {
+   szoveg2.innerText = "ASDADA";
+});
