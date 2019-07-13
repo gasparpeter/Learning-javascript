@@ -1,7 +1,7 @@
 #dobozka {
     width: 800px;
     height: 600px;
-    background-color: red;
+    background-color: #9a84ff;
     display: block;
     margin: auto;
     align-items: center;
@@ -41,4 +41,15 @@
     margin: auto;
     color: white;
     font-size: 30px;
+}
+
+#X {
+    position: relative;
+    left: 96%;
+    width: 32px;
+    height: 32px;
+    background-color: red;
+    border: none;
+    color: white;
+    font-size: 20px;
 }
