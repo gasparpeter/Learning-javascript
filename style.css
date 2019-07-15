@@ -1,107 +1,21 @@
-#dobozka {
-    width: 1500px;
-    height: 900px;
-    background-color: #9a84ff;
-    display: block;
-    margin: auto;
-    align-items: center;
-    padding: 0;
-    border: none;
+
+ul {
+    list-style-type: none;
 }
 
-#elso {
-    width: 400px;
-    height: 200px;
-    background-color: lightgreen;
-    display: block;
-    margin: auto;
-    border: none;
-}
-
-#masodik {
-    width: 400px;
-    height: 200px;
-    background-color: lightgreen;
-    display: block;
-    margin: 15px auto;
-    border: none;
-}
-
-#gomb1 {
-    width: 200px;
+li {
+    display: inline-block;
+    width: 100px;
     height: 100px;
-    background-color: black;
-    display: block;
-    margin: auto;
-    color: white;
-    font-size: 30px;
-}
-
-#gomb2 {
-    width: 200px;
-    height: 100px;
-    background-color: black;
-    display: block;
-    margin: auto;
-    color: white;
-    font-size: 30px;
-}
-
-#X {
-    position: relative;
-    left: 100%;
-    width: 50px;
-    height: 50px;
-    background-color: red;
-    border: none;
-    color: white;
-    font-size: 20px;
-}
-
-#settings {
-    width: 200px;
-    height: 70px;
+    text-align: center;
+    line-height: 100px;
     font-size: 25px;
+    margin: 2px;
 }
 
-#settings-doboz {
-    background-color: #dcc8c9;
-    width: 700px;
-    height: 800px;
-    margin: auto;
-    display: none;
-    border: silver;
-
-}
-
-#akkonem {
-    display: block;
-    margin: auto;
-    font-size: 50px;
-}
-
-#background {
-    margin-top: 50px;
-    width: 350px;
-    height: 80px;
-    font-size: 40px;
-}
-
-#colours {
+#btn {
     width: 200px;
-    height: 450px;
-    display: none;
-}
-
-.kozos {
-    width: 200px;
-    height: 90px;
-}
-
-#ok {
-    width: 220px;
-    height: 90px;
+    height: 50px;
     background-color: silver;
-    font-size: 30px;
-    margin-top: 1px;
+    font-size: 20px;
 }
