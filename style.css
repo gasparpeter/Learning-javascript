@@ -10,7 +10,8 @@ li {
     text-align: center;
     line-height: 100px;
     font-size: 25px;
-    margin: 2px;
+    margin: 5px;
+    background-color: darkorange;
 }
 
 #btn {
